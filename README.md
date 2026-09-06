@@ -26,7 +26,7 @@ crs/
 ## Prerequisites
 
 - Node.js 18+ and npm
-- A running MongoDB instance (local MongoDB Community Server, or a free MongoDB Atlas cluster)
+- A running MongoDB instance (free MongoDB Atlas cluster)
 
 ## 1. Backend Setup
 
